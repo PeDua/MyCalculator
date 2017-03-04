@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="so_1">1</string>
+    <string name="so_2">2</string>
+    <string name="so_3">3</string>
+    <string name="dau_ngoacdon">()</string>
+    <string name="so_0">0</string>
+    <string name="dau_cham">.</string>
+    <string name="cong_tru">+/-</string>
+    <string name="dau_bang">=</string>
+</resources>
